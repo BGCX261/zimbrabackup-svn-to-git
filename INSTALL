@@ -1,0 +1,19 @@
+############## Install instructions#####################
+
+To install zimbrabackup just run the install.sh script.
+
+# chmod +x install.sh
+# ./install.sh
+
+Check the man pages about the zimbrabackup or run:
+
+# zimbrabackup --help
+
+to get some help.
+
+To execute zimbrabackup properly, don't forget you need 
+be loged as zimbra.
+
+########################################################
+
+
